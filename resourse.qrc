@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>timer.png</file>
+    </qresource>
+    <qresource prefix="/About">
+        <file>FAQ</file>
+        <file>LICENSE</file>
+    </qresource>
+</RCC>
